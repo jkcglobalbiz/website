@@ -239,7 +239,7 @@ var arrLang = {
            "TEXT17":"Obtenir les meilleurs équipements, produits et services à un prix compétitif.",
            "TEXT18": "Nous vous assurons les meilleurs services et les tarifs les plus compétitifs.",
            "SEGMENTS": "Secteurs d'activité",
-           "TEXT19": "Notre activité évolue dans les secteurs d'activité suivants :",
+           "TEXT19": "Nous évoluons dans les secteurs d'activité suivants :",
            "MINING": "Équipement minier",
            "SALE": "Vente / achat",
            "INDUSTRIAL": "Équipement industriel",
