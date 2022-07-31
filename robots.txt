@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /no_opportunity_available.html
